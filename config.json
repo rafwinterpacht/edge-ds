@@ -1,5 +1,5 @@
 { 
-    "project": "Bootcamp", 
+    "project": "main", 
     "plugins": [ 
         { 
             "id": "open", 
